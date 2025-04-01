@@ -21,13 +21,13 @@ An AI-powered tool that analyzes audio files, transcribes speech, and provides s
 
 1. Clone this repository:
 ```
-git clone https://github.com/your-username/ai-communication-analyzer.git
-cd ai-communication-analyzer
+git clone https://github.com/dhanushgithubrepo/Communication-Analysis-Tool-for-Human-AI-Interaction-Driving-Simulator-Experiments-Screening-Test.git
+cd app.py
 ```
 
 2. Install the required packages:
 ```
-pip install -r requirements.txt
+pip install -r app-requirements.txt
 ```
 
 3. Download NLTK data (optional, will be downloaded automatically on first run):
